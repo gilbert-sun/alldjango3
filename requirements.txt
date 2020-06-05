@@ -8,7 +8,7 @@ cv-bridge==1.11.16
 diagnostic-analysis==1.9.3
 diagnostic-common-diagnostics==1.9.3
 diagnostic-updater==1.9.3
-Django==2.1.8
+Django==2.2.13
 dynamic-reconfigure==1.5.50
 gazebo-plugins==2.4.16
 gazebo-ros==2.4.16
